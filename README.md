@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Ali Elfanity 👋
 
-<!--
-**KOROSMAN/KOROSMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Final-year AI & Data engineering student** at EMSI Casablanca · looking for a **6-month end-of-studies internship (PFE) in AI / Data from February 2027** (Casablanca · Rabat).
 
-Here are some ideas to get you started:
+I like building AI systems that go beyond a demo: multi-agent workflows with human checkpoints, RAG pipelines, and the data platforms that feed them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Stack
+
+**AI / LLM** — LangGraph · LangChain · MCP · RAG · ChromaDB · CLIP · PyTorch · scikit-learn · Prophet
+**Data** — Python · SQL · Pandas · Apache Spark · Kafka · Airflow · MinIO · PostgreSQL
+**Apps & tooling** — FastAPI · Streamlit · Plotly · Docker · Git
+
+### 🚀 Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**medical-triage-multiagent**](https://github.com/KOROSMAN/medical-triage-multiagent) | Multi-agent clinical pre-orientation workflow: supervisor pattern, MCP tool server, 2 human-in-the-loop checkpoints, REST API + UI, tested | LangGraph · MCP · FastAPI · Streamlit |
+| [**rag-multimodal-agentique**](https://github.com/KOROSMAN/rag-multimodal-agentique_tp3) | Multimodal RAG over PDFs (text + images) exposed as a tool to a ReAct agent | CLIP · ChromaDB · LangGraph |
+| [**sales-forecasting-prophet-bi**](https://github.com/KOROSMAN/sales-forecasting-prophet-bi) | Internship project: data pipeline, per-category sales forecasting and interactive BI dashboard | Prophet · Pandas · Streamlit · Plotly |
+| [**PyTorch labs**](https://github.com/KOROSMAN/Activit-Pratique-N-1--Mise-en-oeuvre-du-Framework-PyTorch) | Deep learning fundamentals: tensors, autograd, regression and training loops | PyTorch · Jupyter |
+
+Also built: a news **Big Data platform** (team project — Airflow, Kafka, Spark, MinIO medallion architecture, Metabase).
+
+### 📫 Contact
+
+[LinkedIn](https://www.linkedin.com/in/ali-elfanity) · alielfanity1@gmail.com
