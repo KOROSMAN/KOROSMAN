@@ -6,9 +6,9 @@ I like building AI systems that go beyond a demo: multi-agent workflows with hum
 
 ### 🔧 Stack
 
-**AI / LLM** — LangGraph · LangChain · MCP · RAG · ChromaDB · CLIP · PyTorch · scikit-learn · Prophet
-**Data** — Python · SQL · Pandas · Apache Spark · Kafka · Airflow · MinIO · PostgreSQL
-**Apps & tooling** — FastAPI · Streamlit · Plotly · Docker · Git
+- **AI / LLM** — LangGraph · LangChain · MCP · RAG · ChromaDB · CLIP · PyTorch · scikit-learn · Prophet
+- **Data** — Python · SQL · Pandas · Apache Spark · Kafka · Airflow · MinIO · PostgreSQL
+- **Apps & tooling** — FastAPI · Streamlit · Plotly · Docker · Git
 
 ### 🚀 Featured projects
 
